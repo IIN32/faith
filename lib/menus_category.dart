@@ -4,7 +4,7 @@ import './menus_dataStart.dart';
 // import 'notifications.dart';
 
 class MenusCategory extends StatelessWidget {
-  final int menusID;
+  final dynamic menusID;
   final String menusTitle;
   const MenusCategory(this.menusID, this.menusTitle, {super.key});
 
