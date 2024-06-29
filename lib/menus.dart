@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-// import 'package:flutter_native_splash/flutter_native_splash.dart';
+import 'package:flutter_native_splash/flutter_native_splash.dart';
 import './menus_dataStart.dart';
 import './menus_content.dart';
 
